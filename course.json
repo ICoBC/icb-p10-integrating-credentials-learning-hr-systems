@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-P10",
+  "repository": "icb-p10-integrating-credentials-learning-hr-systems",
+  "repository_url": "https://github.com/ICoBC/icb-p10-integrating-credentials-learning-hr-systems",
+  "title": "Integrating Credentials with Learning and HR Systems",
+  "subtitle": "Data flows from completion to credential to talent record.",
+  "version": "1.0.0",
+  "series": "Practitioner",
+  "skill": "Platforms and integration",
+  "level": "3",
+  "level_name": "Enable",
+  "stage": "A",
+  "stage_name": "Ability",
+  "alignment_code": "ICSF-PLAT-L3-A",
+  "badge_name": "Integrating Credentials with Learning and HR Systems (Ability, L3)",
+  "hours": "8",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-p10/",
+  "parts": [
+    "About this course",
+    "Integration patterns",
+    "Triggers and automation",
+    "Bringing credentials into HR",
+    "Identity matching",
+    "Monitoring",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 10,
+  "practice_questions": 20
+}
